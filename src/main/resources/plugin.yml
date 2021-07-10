@@ -1,0 +1,4 @@
+name: CustomCommandBlocks
+version: ${project.version}
+main: me.swipez.customcommandblocks.CustomCommandBlocks
+api-version: 1.16
